@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: serif;
+}
+
+body {
+    background: #cbcae0;
+    text-align: center;
+}
+
+header {
+    background: lightpink;
+    color: white;
+    padding: 15px;
+    font-size: 14px;
+}
+
+nav {
+    background: pink;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    margin: 0 10px;
+}
+
+main {
+    padding: 20px;
+}
+
+.article p {
+    background: white;
+    max-width: 300px;
+    margin: 0 auto 20px;
+    padding: 20px;
+    font-size: 15px;
+}
+
+footer {
+    background: #707070;
+    color: white;
+    max-width: 300px;
+    margin: 0 auto 30px;
+    padding: 15px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 10px auto
+}
